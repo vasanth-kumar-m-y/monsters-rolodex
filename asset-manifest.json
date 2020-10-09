@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vasanth-kumar-m-y/monsters-rolodex/static/css/main.a2764d4b.chunk.css",
+    "main.js": "/vasanth-kumar-m-y/monsters-rolodex/static/js/main.74254050.chunk.js",
+    "main.js.map": "/vasanth-kumar-m-y/monsters-rolodex/static/js/main.74254050.chunk.js.map",
+    "runtime-main.js": "/vasanth-kumar-m-y/monsters-rolodex/static/js/runtime-main.46080572.js",
+    "runtime-main.js.map": "/vasanth-kumar-m-y/monsters-rolodex/static/js/runtime-main.46080572.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/vasanth-kumar-m-y/monsters-rolodex/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/vasanth-kumar-m-y/monsters-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/vasanth-kumar-m-y/monsters-rolodex/index.html",
+    "precache-manifest.684304cfd7a0f37b8b1c6c5739a861b1.js": "/vasanth-kumar-m-y/monsters-rolodex/precache-manifest.684304cfd7a0f37b8b1c6c5739a861b1.js",
+    "service-worker.js": "/vasanth-kumar-m-y/monsters-rolodex/service-worker.js",
+    "static/css/main.a2764d4b.chunk.css.map": "/vasanth-kumar-m-y/monsters-rolodex/static/css/main.a2764d4b.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/vasanth-kumar-m-y/monsters-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46080572.js",
+    "static/js/2.9fc7c5d0.chunk.js",
+    "static/css/main.a2764d4b.chunk.css",
+    "static/js/main.74254050.chunk.js"
+  ]
+}
